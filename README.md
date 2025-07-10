@@ -44,7 +44,7 @@ This project demonstrates various methods for detecting credit card fraud in an 
 - **Imbalanced Data**: Baseline models perform poorly on the minority class.
 - **Class Weights**: Improve recall for the minority class.
 - **SMOTETomek Resampling**: Further improves minority class detection.
-- **Neural Network**: Shows similar trends; balancing and class weights help improve fraud detection.
+- **Neural Network**: Shows similar trends; balancing and class weights help improve fraud detection but show overfitting.
 
 ## How to Run
 
